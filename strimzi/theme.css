@@ -264,4 +264,17 @@
     margin-left: 1rem;
     margin-top: 0.5rem;
   }
+
+  .jenkins-breadcrumbs {
+    align-items: center;
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    background: #2b2b2b !important;
+    display: flex;
+    overflow-x: auto;
+    padding: .55rem .7rem .55rem .75rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
  /* End CodeMirror Darcula theme */
