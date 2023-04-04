@@ -64,6 +64,7 @@
   --breadcrumbs-text-color: var(--text-color);
   --breadcrumbs-item-bg-color--hover: var(--dark-theme-bg-dark);
   --breadcrumbs-border: var(--dark-theme-bg-dark-grey);
+  --breadcrumbs-bar-background: #2b2b2b
 
   /* Links */
   --link-color: #dfecf0;
